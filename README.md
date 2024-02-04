@@ -1,18 +1,18 @@
-# LifeExpectancyPredictor
+# Life Expectancy Predictor
 ## 1. What is the nature of dataset?
 ### The nature of dataset is completely numerical based. It consists of multiple columns which predict life expectancy of a person living in a specific country.
 
 ## 2. What are the features?
-### Country - Displays the country name
-### Year - Displays the year
-### Status - It displays whether the country is developed or not.
-### Life Expectancy - Life expectancy in age.
-### Adult Mortality - Adult Mortality of both genders (probability of dying between 15 and 60 years per 1000 population).
-### Infant Death - Number of Infant Deaths per 1000 population].
-### Alcohol - Consumption of alcohol recorded per capita in liters.
-### percentage_expentiture - Expenditure on health as a percentage of GDP
-### Hepatitis B - Immunization coverage among 1 year old.
-### Measles - Number of cases per 1000 population
+#### Country - Displays the country name
+#### Year - Displays the year
+#### Status - It displays whether the country is developed or not.
+#### Life Expectancy - Life expectancy in age.
+#### Adult Mortality - Adult Mortality of both genders (probability of dying between 15 and 60 years per 1000 population).
+#### Infant Death - Number of Infant Deaths per 1000 population].
+#### Alcohol - Consumption of alcohol recorded per capita in liters.
+#### percentage_expentiture - Expenditure on health as a percentage of GDP
+#### Hepatitis B - Immunization coverage among 1 year old.
+#### Measles - Number of cases per 1000 population
 
 ## 3. How did we approach the problem?
 ### Here are the steps which I followed:
